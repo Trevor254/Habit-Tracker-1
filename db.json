@@ -1,185 +1,253 @@
 {
   "habits": [
     {
-      "id": 1,
-      "name": "Morning Exercise",
-      "description": "Do 20 minutes of yoga",
-      "goal": 7,
-      "progress": 2,
-      "timeOfDay": "Morning",
-      "days": ["Monday", "Wednesday", "Friday"]
-    },
-    {
-      "id": 2,
+      "id": "2",
       "name": "Read a Book",
       "description": "Read 10 pages of a book",
       "goal": 7,
       "progress": 3,
       "timeOfDay": "Evening",
-      "days": ["Tuesday", "Thursday", "Saturday"]
+      "days": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Meditation",
       "description": "Practice meditation for 15 minutes",
       "goal": 7,
       "progress": 1,
       "timeOfDay": "Morning",
-      "days": ["Sunday", "Wednesday", "Friday"]
+      "days": [
+        "Sunday",
+        "Wednesday",
+        "Friday"
+      ]
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Hydration",
       "description": "Drink 2 liters of water",
       "goal": 7,
       "progress": 4,
       "timeOfDay": "Afternoon",
-      "days": ["Monday", "Tuesday", "Thursday", "Saturday"]
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Evening Walk",
       "description": "Walk for 30 minutes",
       "goal": 7,
       "progress": 2,
       "timeOfDay": "Evening",
-      "days": ["Monday", "Wednesday", "Friday"]
+      "days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Write Journal",
       "description": "Write daily thoughts and reflections",
       "goal": 7,
       "progress": 5,
       "timeOfDay": "Evening",
-      "days": ["Monday", "Thursday", "Sunday"]
+      "days": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ]
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Plan Next Day",
       "description": "Prepare a to-do list for tomorrow",
       "goal": 7,
       "progress": 3,
       "timeOfDay": "Night",
-      "days": ["Tuesday", "Wednesday", "Friday"]
+      "days": [
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ]
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Breakfast Prep",
       "description": "Prepare a healthy breakfast",
       "goal": 7,
       "progress": 6,
       "timeOfDay": "Morning",
-      "days": ["Monday", "Wednesday", "Friday", "Sunday"]
+      "days": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ]
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Clean Workspace",
       "description": "Tidy up the desk area",
       "goal": 7,
       "progress": 4,
       "timeOfDay": "Afternoon",
-      "days": ["Monday", "Thursday", "Saturday"]
+      "days": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Skill Learning",
       "description": "Practice coding for 1 hour",
       "goal": 7,
       "progress": 2,
       "timeOfDay": "Morning",
-      "days": ["Tuesday", "Thursday", "Saturday"]
+      "days": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Family Time",
       "description": "Spend quality time with family",
       "goal": 7,
       "progress": 5,
       "timeOfDay": "Evening",
-      "days": ["Sunday", "Wednesday", "Saturday"]
+      "days": [
+        "Sunday",
+        "Wednesday",
+        "Saturday"
+      ]
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Fitness Challenge",
       "description": "Complete 50 push-ups",
       "goal": 7,
       "progress": 3,
       "timeOfDay": "Afternoon",
-      "days": ["Tuesday", "Thursday", "Sunday"]
+      "days": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ]
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Social Catch-Up",
       "description": "Call or message a friend",
       "goal": 7,
       "progress": 2,
       "timeOfDay": "Evening",
-      "days": ["Monday", "Friday", "Saturday"]
+      "days": [
+        "Monday",
+        "Friday",
+        "Saturday"
+      ]
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Learn New Words",
       "description": "Learn 5 new words in a foreign language",
       "goal": 7,
       "progress": 6,
       "timeOfDay": "Morning",
-      "days": ["Monday", "Tuesday", "Friday"]
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Friday"
+      ]
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Evening Stretch",
       "description": "Stretch muscles for 10 minutes",
       "goal": 7,
       "progress": 1,
       "timeOfDay": "Evening",
-      "days": ["Tuesday", "Wednesday", "Sunday"]
+      "days": [
+        "Tuesday",
+        "Wednesday",
+        "Sunday"
+      ]
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Financial Review",
       "description": "Track daily expenses",
       "goal": 7,
       "progress": 7,
       "timeOfDay": "Night",
-      "days": ["Monday", "Thursday", "Saturday"]
+      "days": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Healthy Snacking",
       "description": "Eat a fruit as a snack",
       "goal": 7,
       "progress": 3,
       "timeOfDay": "Afternoon",
-      "days": ["Wednesday", "Friday", "Sunday"]
+      "days": [
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ]
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Learning Podcast",
       "description": "Listen to an educational podcast",
       "goal": 7,
       "progress": 4,
       "timeOfDay": "Morning",
-      "days": ["Monday", "Thursday", "Saturday"]
+      "days": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ]
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Declutter Digital",
       "description": "Clean up digital files/emails",
       "goal": 7,
       "progress": 5,
       "timeOfDay": "Night",
-      "days": ["Tuesday", "Friday", "Sunday"]
+      "days": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ]
     },
     {
-      "id": 20,
-      "name": "Practice Gratitude",
-      "description": "Write 3 things you're grateful for",
+      "id": 1733503471712,
+      "name": "Declutter Digital",
+      "description": "Clean up digital files/emails",
       "goal": 7,
-      "progress": 7,
-      "timeOfDay": "Night",
-      "days": ["Monday", "Wednesday", "Friday"]
+      "progress": 0,
+      "timeOfDay": "Evening",
+      "days": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ]
     }
   ]
 }
-
